@@ -1,0 +1,9 @@
+tensorflow==2.1.0
+h5py
+numpy
+pandas
+samplerate
+scikit-learn
+scipy
+tqdm
+wfdb
